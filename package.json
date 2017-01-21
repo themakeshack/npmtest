@@ -1,0 +1,26 @@
+{
+  "name": "npmtest01212017",
+  "version": "1.0.0",
+  "description": "NPM Test",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themakeshack/npmtest.git"
+  },
+  "keywords": [
+    "npm",
+    "test",
+    "npmtest"
+  ],
+  "author": "themakeshack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themakeshack/npmtest/issues"
+  },
+  "homepage": "https://github.com/themakeshack/npmtest#readme"
+}
